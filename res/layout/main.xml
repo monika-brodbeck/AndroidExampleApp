@@ -20,7 +20,7 @@
     <Button
             android:layout_width="169dp"
             android:layout_height="wrap_content"
-            android:text="New Button"
-            android:id="@+id/button" android:layout_gravity="center_horizontal"/>
+            android:text="TimerTest"
+            android:id="@+id/buTimer" android:layout_gravity="center_horizontal"/>
 </LinearLayout>
 
