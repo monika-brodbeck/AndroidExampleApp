@@ -40,7 +40,7 @@ public class ExampleActivity extends Activity {
             }
         });
 
-        Toast.makeText(this, "onCreate", Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "onCreate", Toast.LENGTH_SHORT).show()
     }
 
     @Override
