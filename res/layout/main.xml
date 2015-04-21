@@ -22,5 +22,16 @@
             android:layout_height="wrap_content"
             android:text="TimerTest"
             android:id="@+id/buTimer" android:layout_gravity="center_horizontal"/>
+    <Button
+            android:layout_width="169dp"
+            android:layout_height="wrap_content"
+            android:text="Bluetooth Find"
+            android:id="@+id/buBluetooth" android:layout_gravity="center_horizontal"/>
+    <Button
+            android:layout_width="169dp"
+            android:layout_height="wrap_content"
+            android:text="Bluetooth Wait"
+            android:id="@+id/buBluetoothWait" android:layout_gravity="center_horizontal"/>
 </LinearLayout>
+
 
